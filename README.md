@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vision
+# Brain-Tumor-Detection-Using-Deep-Learning
 <h5>A deep learning-based project for detecting brain tumors from MRI images.
 Utilizes Convolutional Neural Networks (CNN) for image classification.
 Trained on a labeled dataset of brain MRI scans.
